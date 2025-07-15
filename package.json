@@ -1,0 +1,19 @@
+{
+  "name": "emmanuelrendongoez755",
+  "version": "1.0.0",
+  "description": "A web page about events, users can users can register for events and admins can create the events",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmanuelRendon01/PruebaM3-EventsPage.git"
+  },
+  "author": "Emmanuel Rendon Goez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EmmanuelRendon01/Prueba-de-desempe-o-M-dulo-3/issues"
+  },
+  "homepage": "https://github.com/EmmanuelRendon01/PruebaM3-EventsPage#readme"
+}

@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Antony Martinez Ruiz",
+      "email": "Antony@gmail.com",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Juan Pérez",
+      "email": "juan@gmail.com",
+      "password": "123",
+      "role": "user"
+    },
+    {
+      "name": "Juan Manuel Alcácer Perález",
+      "email": "juan2@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": "3"
+    },
+    {
+      "name": "Manolo",
+      "email": "manolo@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": "-jtNvE0"
+    },
+    {
+      "name": "Fernando Pizarro",
+      "email": "fernando@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": "iqZe7aO"
+    },
+    {
+      "name": "Jairo Jimenez",
+      "email": "jairo@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": "gnhyvil"
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "name": "Conferencia JavaScript",
+      "location": "Auditorio Central",
+      "date": "2025-07-17",
+      "capacity": "2",
+      "img": "54sd645asd",
+      "description": "asdasdads",
+      "attendees": [
+        "2",
+        "iqZe7aO"
+      ]
+    },
+    {
+      "name": "Rock Concert",
+      "location": "Bogotá",
+      "date": "2025-07-25",
+      "capacity": "5",
+      "img": "adsasd",
+      "description": "asdasdads",
+      "attendees": [
+        "2",
+        "3",
+        "gnhyvil"
+      ],
+      "id": "2"
+    }
+  ]
+}

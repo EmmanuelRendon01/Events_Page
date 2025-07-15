@@ -61,6 +61,18 @@ The `db.json` file simulates the database, storing users and notes. Each note ca
 
 - Emmanuel Rendon Goez
 
+## Clan 
+
+- RITCHIE
+
+## Email
+
+- emarendon1301@gmail.com
+
+## ID
+
+- 1001250755
+
 ## License
 
 This project is free to use for educational and personal purposes.
